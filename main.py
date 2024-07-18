@@ -55,7 +55,7 @@ class GatherPagesItems(LoggingConfigurator):
                 
                         divs.append(div)
 
-                print(len(divs))
+                
 
                 for div in divs:
                    
